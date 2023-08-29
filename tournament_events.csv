@@ -1,0 +1,26 @@
+id,tournament_id,division,starts_at,ends_at,location
+1,1,X,2019-04-27,2019-04-28,Durham
+2,2,X,2019-05-18,2019-05-19,East Kilbride
+3,3,O,2019-07-13,2019-07-14,"Edenbridge RFC, Kent"
+4,4,X,2019-07-20,2019-07-21,St Albans
+5,5,O,2019-06-22,2019-06-23,Sale United FC
+6,5,W,2019-06-22,2019-06-23,Sale United FC
+7,6,X,2019-05-18,2019-05-19,"Old Alleynian Rugby Grounds, London"
+8,7,X,2019-05-18,2019-05-19,Welwyn Garden City
+9,8,O,2019-06-22,2019-06-23,"Highfield Park, St Albans"
+10,9,O,2019-07-13,2019-07-14,"The Pavilion, Birmingham"
+11,9,W,2019-07-13,2019-07-14,"The Pavilion, Birmingham"
+12,10,O,2019-06-01,2019-06-02,"Riverside Sports Complex, Nottingham"
+13,10,W,2019-06-01,2019-06-02,"Riverside Sports Complex, Nottingham"
+14,11,O,2019-06-22,2019-06-23,"Llanrumney Playing Fields, Cardiff"
+15,11,W,2019-06-22,2019-06-23,"Llanrumney Playing Fields, Cardiff"
+16,12,X,2019-04-27,2019-04-28,St Albans
+17,13,O,2019-08-03,2019-08-04,University of York
+18,13,X,2019-08-03,2019-08-04,University of York
+19,14,O,2019-08-03,2019-08-04,"Edenbridge RFC, Edenbridge"
+20,14,W,2019-08-03,2019-08-04,"Edenbridge RFC, Edenbridge"
+21,14,X,2019-08-03,2019-08-04,"Edenbridge RFC, Edenbridge"
+22,15,O,2019-08-24,2019-08-25,Birmingham
+23,15,X,2019-08-24,2019-08-25,Birmingham
+24,15,W,2019-08-24,2019-08-25,Birmingham
+25,16,X,2019-03-30,2019-03-31,"Llanrumney Playing Fields, Cardiff"
